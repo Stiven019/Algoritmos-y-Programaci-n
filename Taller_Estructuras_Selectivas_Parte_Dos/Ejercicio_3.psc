@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_1
+Algoritmo Ejercicio_3
 	Escribir "Ingresa un numero"
 	Leer numero1
 	Si numero1 %2=0 Entonces
